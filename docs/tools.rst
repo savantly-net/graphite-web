@@ -304,6 +304,9 @@ Other
 
 `Therry`_
   A simple web service that caches Graphite metrics and exposes an endpoint for dumping or searching against them by substring.
+  
+`graphite-dl4j` 
+  Perform machine learning on a series of metrics to predict future metric values.
 
 
 .. _Backbone.js: http://documentcloud.github.com/backbone
@@ -348,6 +351,7 @@ Other
 .. _graphite-beacon: https://github.com/klen/graphite-beacon
 .. _graphite-clickhouse: https://github.com/lomik/graphite-clickhouse
 .. _graphite-dashboardcli: https://github.com/blacked/graphite-dashboardcli
+..  grahite-dl4j: https://github.com/savantly-net/graphite-dl4j
 .. _Graphite-Newrelic: https://github.com/gingerlime/graphite-newrelic
 .. _Graphite-relay: https://github.com/markchadwick/graphite-relay
 .. _graphite-remote-adapter: https://github.com/criteo/graphite-remote-adapter
